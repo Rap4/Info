@@ -13,3 +13,4 @@ Codium:  https://codeium.com
 Python: Spyder, Conda, VS, Pycharm
 
 SciHub: https://sci-hub.se
+(If無法連上 https://tool.yovisun.com/scihub)
