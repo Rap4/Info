@@ -7,8 +7,7 @@ Z-lib: https://z-library.se
 
 Protonmail: https://proton.me/mail
 
-Codium:  <a href="https://codeium.com" target="_blank">https://codeium.com</a>
-
+Codium:  https://codeium.com
 可取代Copilot
 
 Python: Spyder, Conda, VS, Pycharm
