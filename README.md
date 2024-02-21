@@ -23,3 +23,9 @@ SciHub: https://sci-hub.se
 Github 桌面板: https://desktop.github.com/
 
 使用markdown語法
+
+VPN
+
+AdBlock: https://chrome.google.com/webstore/detail/gighmmpiobklfepjocnamgkkbiglidom
+
+uBlock Origin: https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm
