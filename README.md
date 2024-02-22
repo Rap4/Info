@@ -16,7 +16,7 @@ github: https://github.com/
 Codium:  https://codeium.com
 可取代Copilot
 
-Python: Spyder, Conda, VS, Pycharm
+Python: Spyder, Conda, VS, Pycharm, Colab
 
 SciHub: https://sci-hub.ee
 (If無法連上 https://tool.yovisun.com/scihub)
