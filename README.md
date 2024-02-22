@@ -31,3 +31,8 @@ VPN
 AdBlock: https://chrome.google.com/webstore/detail/gighmmpiobklfepjocnamgkkbiglidom
 
 uBlock Origin: https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm
+
+照片解碼 : https://huggingface.co/spaces/sczhou/CodeFormer
+
+
+
