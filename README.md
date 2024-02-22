@@ -18,7 +18,7 @@ Codium:  https://codeium.com
 
 Python: Spyder, Conda, VS, Pycharm
 
-SciHub: https://sci-hub.se
+SciHub: https://sci-hub.ee
 (If無法連上 https://tool.yovisun.com/scihub)
 
 
