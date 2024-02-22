@@ -34,6 +34,8 @@ uBlock Origin: https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdln
 
 照片解碼 : https://huggingface.co/spaces/sczhou/CodeFormer
 
+讀公式: Mathpix Snipping Tool https://mathpix.com/snipping-tool
+
 擋廣告 ：https://apps.apple.com/us/app/dnscloak-secure-dns-client/id1452162351
 
 OCR
